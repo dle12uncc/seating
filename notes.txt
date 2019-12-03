@@ -1,0 +1,9 @@
+20 seats in first class (five rows of four seats each, seperated by an aisle)
+90 seats in economy class (15 rows of six seats, seperated by an aisle)
+
+three commands: add passengers, show seating, quit
+
+adding passengers:
+class (first or economy)
+number of passengers traveling together (1 to 2 in first class, 1 to 3 in economy)
+seating preferences (aisle or window in first class, center or window in economy)

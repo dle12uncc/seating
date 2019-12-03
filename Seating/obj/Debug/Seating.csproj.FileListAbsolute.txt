@@ -1,0 +1,13 @@
+C:\Users\Duke\source\repos\Seating\Seating\bin\Debug\Seating.exe.config
+C:\Users\Duke\source\repos\Seating\Seating\bin\Debug\Seating.exe
+C:\Users\Duke\source\repos\Seating\Seating\bin\Debug\Seating.pdb
+C:\Users\Duke\source\repos\Seating\Seating\obj\Debug\MainWindow.g.cs
+C:\Users\Duke\source\repos\Seating\Seating\obj\Debug\App.g.cs
+C:\Users\Duke\source\repos\Seating\Seating\obj\Debug\Seating_MarkupCompile.cache
+C:\Users\Duke\source\repos\Seating\Seating\obj\Debug\Seating_MarkupCompile.lref
+C:\Users\Duke\source\repos\Seating\Seating\obj\Debug\MainWindow.baml
+C:\Users\Duke\source\repos\Seating\Seating\obj\Debug\Seating.g.resources
+C:\Users\Duke\source\repos\Seating\Seating\obj\Debug\Seating.Properties.Resources.resources
+C:\Users\Duke\source\repos\Seating\Seating\obj\Debug\Seating.csproj.GenerateResource.cache
+C:\Users\Duke\source\repos\Seating\Seating\obj\Debug\Seating.exe
+C:\Users\Duke\source\repos\Seating\Seating\obj\Debug\Seating.pdb
