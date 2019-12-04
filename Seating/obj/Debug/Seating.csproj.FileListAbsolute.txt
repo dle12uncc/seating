@@ -11,3 +11,4 @@ C:\Users\Duke\source\repos\Seating\Seating\obj\Debug\Seating.Properties.Resource
 C:\Users\Duke\source\repos\Seating\Seating\obj\Debug\Seating.csproj.GenerateResource.cache
 C:\Users\Duke\source\repos\Seating\Seating\obj\Debug\Seating.exe
 C:\Users\Duke\source\repos\Seating\Seating\obj\Debug\Seating.pdb
+C:\Users\Duke\source\repos\Seating\Seating\obj\Debug\Seating.csprojAssemblyReference.cache
